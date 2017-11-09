@@ -83,7 +83,7 @@
 
     <div id="page-wrap">
     
-        <h2>jQuery/PHP Chat</h2>
+        <h2>Tchat de Niconie</h2>
         
         <p id="name-area"></p>
         
